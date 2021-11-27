@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cricket Chirp Temperature</string>
+    <string name="String_Text">Count No.of chirps the cricket makes in 25 seconds and enter it to the box below.</string>
+</resources>
